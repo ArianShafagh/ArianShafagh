@@ -8,12 +8,16 @@ def fetch_repos():
     url = f"https://api.github.com/users/{USERNAME}/repos?sort=updated&per_page=100"
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     
-    with urllib.request.urlopen(req) as response:
-        repos = json.loads(response.read().decode())
+    try:
+        with urllib.request.urlopen(req) as response:
+            repos = json.loads(response.read().decode())
+    except Exception as e:
+        print(f"Error fetching repos: {e}")
+        return "- 🤖 *Repositories auto-sync pending...*"
     
     formatted_list = []
     for repo in repos:
-        # Exclude profile repository itself if desired
+        # Exclude profile repository itself and forks
         if repo['name'].lower() == USERNAME.lower() or repo['fork']:
             continue
         
@@ -23,6 +27,9 @@ def fetch_repos():
         
         entry = f"- 🚀 **[{repo['name']}]({repo['html_url']})** — {desc}{lang}{stars}"
         formatted_list.append(entry)
+        
+    if not formatted_list:
+        return "- 🤖 *No secondary public repositories found yet. New repos will show up here automatically!*"
         
     return "\n".join(formatted_list)
 
@@ -40,7 +47,7 @@ def update_readme():
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(updated_readme)
         
-    print("README.md successfully updated with latest repositories.")
+    print("README.md successfully updated.")
 
 if __name__ == "__main__":
     update_readme()
