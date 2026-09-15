@@ -10,26 +10,29 @@
 
 Hello! I'm **Arian (ARIAN)**. I build software and hardware projects centered around **Robotics** and **Artificial Intelligence**.
 
-- 🤖 **Focus Area:** Robotics, Computer Vision & AI Models
-- 💻 **GitHub Profile:** [@ArianShafagh](https://github.com/ArianShafagh)
+- 🤖 **Focus Area:** Autonomous Systems, Computer Vision & AI Models
+- 💼 **GitHub:** [@ArianShafagh](https://github.com/ArianShafagh)
 
 ---
-<!-- SYSTEM METRICS & STATS CARDS -->
-## 📊 System Stats & Activity
+
+<!-- TECH & LANGUAGE METRICS (100% RELIABLE) -->
+## 📊 Tech & Languages
 
 <div align="center">
-  <!-- Dynamic GitHub Profile Trophy (Alternative API) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ArianShafagh&theme=tokyonight&margin-w=15&no-frame=true" alt="Arian Trophies" />
-  <br /><br />
-  <!-- GitHub Stats Card using reliable mirror endpoint -->
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=ArianShafagh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arian's Stats" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArianShafagh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+| Core Skills | Stack & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Robotics & AI** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+
 </div>
 
+<br />
+
 <div align="center">
-  <br />
-  <!-- Visual Activity Graph (No Rate Limit Errors) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArianShafagh&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+  <!-- GitHub Built-in Cards (Guaranteed No Broken Image Links) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArianShafagh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Arian's Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianShafagh&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -39,31 +42,24 @@ Hello! I'm **Arian (ARIAN)**. I build software and hardware projects centered ar
 
 <!-- REPOS-START -->
 <!-- REPOS-END -->
+
 ---
 
-<!-- FUN ANIMATED ENDING -->
-## 🎮 Terminal Robot ASCII
+<!-- CLEAN ROBOT FOOTER -->
+## 🎮 System Terminal
 
-<div align="center">
-  <pre>
-     .----------------.
-    |  [🤖] ARIAN AI  |
-    |  SYS: ONLINE   |
-     '----------------'
-            ||
-        .---''---.
-       /  O    O  \
-      |    \__/    |
-       \  ======  /
-        '--------'
-         /|    |\
-        /_|____|_\
-         |  ||  |
-         |  ||  |
-        (____)(____)
-  </pre>
-
-  <img src="https://raw.githubusercontent.com/Pythagora-io/pythagora/main/assets/robot.gif" width="150px" alt="Bouncing Robot" />
-
-  <p><i>"Code, Deploy, Automate, Repeat."</i></p>
-</div>
+```text
+  .----------------.
+ |  [🤖] ARIAN AI  |
+ |  SYS: ONLINE   |
+  '----------------'
+         ||
+     .---''---.
+    /  O    O  \
+   |    \__/    |
+    \  ======  /
+     '--------'
+      /|    |\
+     /_|____|_\
+      |  ||  |
+      (____)(____)
