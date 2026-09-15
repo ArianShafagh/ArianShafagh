@@ -14,17 +14,22 @@ Hello! I'm **Arian (ARIAN)**. I build software and hardware projects centered ar
 - 💻 **GitHub Profile:** [@ArianShafagh](https://github.com/ArianShafagh)
 
 ---
-
 <!-- SYSTEM METRICS & STATS CARDS -->
 ## 📊 System Stats & Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArianShafagh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arian's Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianShafagh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Dynamic GitHub Profile Trophy (Alternative API) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ArianShafagh&theme=tokyonight&margin-w=15&no-frame=true" alt="Arian Trophies" />
+  <br /><br />
+  <!-- GitHub Stats Card using reliable mirror endpoint -->
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=ArianShafagh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arian's Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ArianShafagh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArianShafagh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <!-- Visual Activity Graph (No Rate Limit Errors) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArianShafagh&theme=tokyonight&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -32,11 +37,8 @@ Hello! I'm **Arian (ARIAN)**. I build software and hardware projects centered ar
 <!-- AUTOMATIC REPOSITORIES SECTION -->
 ## 📌 My Repositories & Projects
 
-*(This list updates automatically via GitHub Actions whenever repositories are updated)*
-
 <!-- REPOS-START -->
 <!-- REPOS-END -->
-
 ---
 
 <!-- FUN ANIMATED ENDING -->
